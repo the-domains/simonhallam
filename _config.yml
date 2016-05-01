@@ -1,0 +1,28 @@
+name: simonhallam
+favicon: null
+layout_spectrum: 0.17489503207616508
+typography_spectrum: 0.37262387853115797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.38002795865759254
+  lightness: 0.8656665566377342
+  saturation: 0.9835682197008282
+  rhythmicContrast: 0.9382562839891762
+purpose: []
